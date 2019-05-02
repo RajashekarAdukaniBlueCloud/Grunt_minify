@@ -1,0 +1,24 @@
+{
+  "name": "minify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-compress": "^1.5.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "jit-grunt": "^0.9.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-imagemin": "^3.1.0",
+    "grunt-tinyimg": "^1.0.0"
+  }
+}
